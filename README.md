@@ -1,1 +1,1 @@
-![](images/BestShopCapa.png)
+![](images/BestShopLogo.png)
