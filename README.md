@@ -62,6 +62,8 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 
 - **6. Recomendações para Área de Marketing:** nessa etapa, iremos sugerir algumas recomendações para a área de Marketing.
 
+- **7. Conclusões Finais:** Por fim, concluiremos o projeto com as considerações finais.
+
 # TOP 3 Insights
 
 **H1. Em média, clientes mais jovens compram mais pela internet.**
