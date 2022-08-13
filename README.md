@@ -93,3 +93,49 @@ Após a análise, os clientes foram divididos em seis grupos, conforme a imagem 
 - **Em Alerta:** clientes que compram com menos frequência e que estão a algum tempo sem comprar;
 - **Recuperar Importantes:** clientes que compram com muita frequência e que estão a muito tempo sem comprar;
 - **Recuperar Médios:** clientes que compram com menos frequência e que estão a muito tempo sem comprar.
+
+# Recomendações para Área de Marketing
+
+ ## Ativo Especial
+
+Esses são clientes recentes, que compraram com muita frequência.
+Para esse grupo, podemos criar campanhas visando recompensar e fidelizar esses clientes, como por exemplo:
+
+- Ter acesso a novos produtos antes do lançamento;
+- Oferecer descontos exclusivos.
+- 
+## Ativo Normal
+
+Esse grupo, assim como o anterior, também possui clientes que compraram recentemente, porém, com menor frequência.
+Aqui, poderíamos adotar algumas estratégias visando aumentar a frequência de compra dos clientes, como por exemplo:
+
+- Criar promoções estimulando a recompra de outros produtos;
+- Criar programas de fidelidade.
+
+## Em Atenção
+Esse grupo merece atenção pois possui clientes que compraram com muita frequência e que estão "hibernados" a algum tempo.
+Isso pode ser um sinal de que a BestShop está perdendo bons clientes para a concorrência e devemos evitar que isso ocorra.
+
+Poderíamos criar algumas estratégias como:
+
+- Oferecer descontos baseados em produtos comprados anteriormente;
+- Criar promoções "cobrindo" as ofertas da concorrência.
+
+## Em Alerta
+Esse pode ser considerado um grupo de clientes que compram eventualmente.
+Aqui, poderíamos adotar algumas estratégias semelhantes ao grupo anterior visando reativar o interesse desses clientes.
+
+## Recuperar Importantes
+Nesse grupo, temos clientes que já compraram com muita frequência e que atualmente estão inativos.
+
+Devemos adotar estratégias visando recuperar esses clientes, como por exemplo:
+
+- Apresentar e oferecer novos produtos baseado no histórico de compras;
+- Investir em pesquisas de feedback para descobrir as principais causas do churn.
+
+## Recuperar Médios
+Esse grupo se trata de clientes que compraram com menos frequência e que estão a muito tempo sem comprar.
+Semelhante ao ocorrido com o grupo anterior, devemos focar em reviver o interesse do cliente.
+
+- Oferecer produtos e descontos especiais;
+- Criar campanhas de alcance customizadas.
