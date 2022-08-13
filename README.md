@@ -63,3 +63,17 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 - **6. Recomendações para Área de Marketing:** nessa etapa, iremos sugerir algumas recomendações para a área de Marketing.
 
 # TOP 3 Insights
+
+**H1. Em média, clientes mais jovens compram mais pela internet.**
+- Falsa, podemos observar que os grupos 3 e 4 possuem as maiores médias de compra pela internet.
+- ![](images/H1.png)
+
+**H4. Clientes "alta renda" compram mais.**
+- Verdadeira, há uma alta correlação positiva entre a renda do cliente e o total de produtos comprados.
+- ![](images/H4.png)
+
+**H6. Clientes antigos compram mais que clientes novos.**
+- Falsa, não há nenhuma relação entre o tempo de vida do cliente com o total de compras realizadas.
+- ![](images/H6.png)
+
+
