@@ -66,15 +66,15 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 
 **H1. Em média, clientes mais jovens compram mais pela internet.**
 - Falsa, podemos observar que os grupos 3 e 4 possuem as maiores médias de compra pela internet.
-- ![](images/H1.png)
+![](images/H1.png)
 
 **H4. Clientes "alta renda" compram mais.**
 - Verdadeira, há uma alta correlação positiva entre a renda do cliente e o total de produtos comprados.
-- ![](images/H4.png)
+![](images/H4.png)
 
 **H6. Clientes antigos compram mais que clientes novos.**
 - Falsa, não há nenhuma relação entre o tempo de vida do cliente com o total de compras realizadas.
-- ![](images/H6.png)
+![](images/H6.png)
 
 # Análise RFM
 
@@ -85,7 +85,7 @@ A análise RFM é uma estratégia para estimar o valor de um cliente, com base e
 - **Monetary (monetário):** quanto maior for o gasto do cliente em compras, maior a pontuação.
 
 Após a análise, os clientes foram divididos em seis grupos, conforme a imagem abaixo.
-- ![](images/RFM.png)
+![](images/RFM.png)
 
 - **Ativo Especial:** clientes recentes que compram com muita frequência;
 - **Ativo Normal:** clientes recentes que compram com menos frequência;
