@@ -45,3 +45,21 @@ Durante a reunião de negócios, vários métodos de como realizar a segmentaç�
 | NumCatalogPurchases	             | Número de compras feitas usando um catálogo                          |
 | NumStorePurchases	               | Número de compras feitas diretamente nas lojas                       |
 | NumWebVisitsMonth	               | Número de visitas ao site da empresa no último mês                   |     
+
+# Estratégia da Solução
+
+Como estratégia para a solução do projeto, definimos as seguintes etapas:
+
+- **1. Entendimento do Negócio:** nesta etapa inicial, o principal objetivo é compreender o problema de negócio e as necessidades do cliente.
+
+- **2. Entendimento dos Dados:** iremos tratar as principais inconsistências encontradas nos dados, e realizar uma análise exploratória a fim de gerar insights sobre o negócio.
+
+- **3. Engenharia de Atributos:** com os dados existentes, criaremos variáveis a fim de extrair novas informações dos dados.
+
+- **4. Perguntas e Hipóteses de Negócio:** ainda como forma de explorar os dados, criaremos perguntas e hipóteses relacionadas ao problema de negócio.
+
+- **5. Análise RFM:** através da análise RFM, iremos segmentar os clientes da empresa.
+
+- **6. Recomendações para Área de Marketing:** nessa etapa, iremos sugerir algumas recomendações para a área de Marketing.
+
+# TOP 3 Insights
