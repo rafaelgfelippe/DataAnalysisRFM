@@ -76,4 +76,20 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 - Falsa, não há nenhuma relação entre o tempo de vida do cliente com o total de compras realizadas.
 - ![](images/H6.png)
 
+# Análise RFM
 
+A análise RFM é uma estratégia para estimar o valor de um cliente, com base em três variáveis:
+
+- **Recency (recência):** quanto mais recente tiver sido a última compra de um cliente, mais pontos ele recebe aqui.
+- **Frequency (frequência):** quanto maior for o número de compras de um cliente, maior também será sua pontuação neste quesito.
+- **Monetary (monetário):** quanto maior for o gasto do cliente em compras, maior a pontuação.
+
+Após a análise, os clientes foram divididos em seis grupos, conforme a imagem abaixo.
+- ![](images/RFM.png)
+
+- **Ativo Especial:** clientes recentes que compram com muita frequência;
+- **Ativo Normal:** clientes recentes que compram com menos frequência;
+- **Em Atenção:** clientes que compram com muita frequência e que estão a algum tempo sem comprar;
+- **Em Alerta:** clientes que compram com menos frequência e que estão a algum tempo sem comprar;
+- **Recuperar Importantes:** clientes que compram com muita frequência e que estão a muito tempo sem comprar;
+- **Recuperar Médios:** clientes que compram com menos frequência e que estão a muito tempo sem comprar.
