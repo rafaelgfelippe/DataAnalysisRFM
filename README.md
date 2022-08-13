@@ -148,3 +148,18 @@ Semelhante ao ocorrido com o grupo anterior, devemos focar em reviver o interess
 
 - Oferecer produtos e descontos especiais;
 - Criar campanhas de alcance customizadas.
+
+
+# Conclusões Finais
+
+Neste projeto, utilizamos a linguagem Python e algumas de suas principais bibliotecas para segmentar a base de clientes da BestShop.
+
+A segmentação foi realizada através da análise RFM, que é uma ótima maneira de identificar quais são os clientes mais e menos engajados da empresa. Além disso, também realizamos uma breve análise exploratória nos dados, respondendo perguntas e hipóteses de negócio, com o objetivo de entender e extrair insights dos dados.
+
+O resultado da segmentação dos clientes gerou seis grupos, onde cada um deles possui um padrão de consumo específico, o que possibilita a empresa direcionar ações customizadas para cada grupo, visando aumentar as taxas de conversão das campanhas de Marketing.
+
+# Autor
+
+Rafael Felippe  
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafaelfelippe/)
